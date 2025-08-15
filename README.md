@@ -15,12 +15,12 @@ Este projeto de análise de dados foca no tratamento e na exploração de um con
 A metodologia seguiu os seguintes passos:
 
 1.  **Limpeza de Dados:** Conversão da coluna de datas para o tipo `datetime` e criação de uma única coluna para os diretores.
-2.  **Análise Estatística:** Cálculo de métricas estatísticas para as colunas de avaliação (`IMDb`, `Rotten Tomatoes`) e financeiras (`Budget`, `Worldwide Gross`).
+2.  **Análise Estatística:** Cálculo de métricas estatísticas para as colunas de avaliação (IMDb, Rotten Tomatoes) e financeiras (Budget, Worldwide Gross).
 3.  **Preparação para Gráficos:** Geração de tabelas de resumo para facilitar a criação de visualizações futuras.
 
 #### Entregáveis
 
-* Arquivo de dados limpo e tratado: `Marvel_Movies_Cleaned.csv`.
+* Arquivo de dados limpo e tratado: Marvel_Movies_Cleaned.csv.
 * Relatório de estatísticas básicas (média, mediana, moda, etc.).
 
 #### Tabela de Estatísticas dos Filmes
